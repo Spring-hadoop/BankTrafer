@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "urls",
+      "type": "com.plus.bysj.account.config.FilterUrlsConfig",
+      "sourceType": "com.plus.bysj.account.config.FilterUrlsConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "urls.anon",
+      "type": "java.util.List<java.lang.String>",
+      "description": "不需要鉴权的url",
+      "sourceType": "com.plus.bysj.account.config.FilterUrlsConfig"
+    }
+  ],
+  "hints": []
+}
